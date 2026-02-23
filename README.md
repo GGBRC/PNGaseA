@@ -20,6 +20,10 @@ Packages:
 - ggtree
 - tidyverse
 
+Python 3.13.11 
+Packages:
+- Biopython ≥ 1.85
+
 ## Scripts
 
 1. Fig4_DE_analysis.R
