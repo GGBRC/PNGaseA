@@ -24,5 +24,4 @@ Packages:
 
 1. Fig4_DE_analysis.R
 2. Fig4_volcano_plot.R
-3. Fig5_phylogeny.R
-4. Fig5_heatmap.R
+3. Fig5_heatmap.py
