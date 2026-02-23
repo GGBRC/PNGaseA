@@ -20,9 +20,7 @@ Packages:
 - ggtree
 - tidyverse
 
-## Reproducibility
-
-Run scripts in the following order:
+## Scripts
 
 1. Fig4_DE_analysis.R
 2. Fig4_volcano_plot.R
